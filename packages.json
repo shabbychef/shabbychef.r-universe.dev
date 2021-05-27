@@ -1,0 +1,71 @@
+[
+	{
+		"package": "SharpeR",
+		"url": "https://github.com/shabbychef/SharpeR"
+	},
+	{
+		"package": "MarkowitzR",
+		"url": "https://github.com/shabbychef/MarkowitzR"
+	},
+	{
+		"package": "PDQUtils",
+		"url": "https://github.com/shabbychef/PDQUtils"
+	},
+	{
+		"package": "sadists",
+		"url": "https://github.com/shabbychef/sadists"
+	},
+	{
+		"package": "madness",
+		"url": "https://github.com/shabbychef/madness"
+	},
+	{
+		"package": "BWStest",
+		"url": "https://github.com/shabbychef/BWStest"
+	},
+	{
+		"package": "ggallin",
+		"url": "https://github.com/shabbychef/ggallin"
+	},
+	{
+		"package": "SPYvsSPY",
+		"url": "https://github.com/shabbychef/SPYvsSPY"
+	},
+	{
+		"package": "cocktailApp",
+		"url": "https://github.com/shabbychef/cocktailApp"
+	},
+	{
+		"package": "fromo",
+		"url": "https://github.com/shabbychef/fromo"
+	},
+	{
+		"package": "ohenery",
+		"url": "https://github.com/shabbychef/ohenery"
+	},
+	{
+		"package": "mazealls",
+		"url": "https://github.com/shabbychef/mazealls"
+	},
+	{
+		"package": "epsiwal",
+		"url": "https://github.com/shabbychef/epsiwal"
+	},
+	{
+		"package": "HappyCampR",
+		"url": "https://github.com/shabbychef/HappyCampR"
+	},
+	{
+		"package": "faroutman",
+		"url": "https://github.com/shabbychef/faroutman"
+	},
+	{
+		"package": "zipper",
+		"url": "https://github.com/shabbychef/zipper"
+	},
+	{
+		"package": "tsrsa",
+		"url": "https://github.com/shabbychef/tsrsa",
+		"subdir": "rpkg"
+	}
+]
