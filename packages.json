@@ -70,7 +70,10 @@
 	},
 	{
 		"package": "faroutman",
-		"url": "https://github.com/shabbychef/faroutman",
-		"subdir": "rpkg"
+		"url": "https://github.com/shabbychef/faroutman"
+	},
+	{
+		"package": "rnmf",
+		"url": "https://github.com/shabbychef/rnmf"
 	}
 ]
