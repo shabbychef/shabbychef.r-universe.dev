@@ -67,5 +67,10 @@
 		"package": "tsrsa",
 		"url": "https://github.com/shabbychef/tsrsa",
 		"subdir": "rpkg"
+	},
+	{
+		"package": "faroutman",
+		"url": "https://github.com/shabbychef/faroutman",
+		"subdir": "rpkg"
 	}
 ]
