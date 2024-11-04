@@ -73,7 +73,7 @@
 		"url": "https://github.com/shabbychef/faroutman"
 	},
 	{
-		"package": "rnmf",
-		"url": "https://github.com/shabbychef/rnmf"
+		"package": "rnnmf",
+		"url": "https://github.com/shabbychef/rnnmf"
 	}
 ]
